@@ -16,11 +16,11 @@ Our goal in this project is to predict used cars' market value by applying machi
 
 **Who benefits from exploring this question or building this model/system?**
 
-* Used car sellers (dealers)
+* Used car sellers (dealers).
 
-* Individuals
+* Individuals.
 
-* Online pricing services
+* Online pricing services.
 
 
 
@@ -45,6 +45,6 @@ In this project, we intend to scrape two website and use additional dataset for 
 
 The following libraries will be used in order to successfully complete the project.
 * Numpy and pandas to perfom data manipulations.
-* Matplotlib to plot visulalizations
+* Matplotlib to plot visulalizations.
 * BeautifulSoup and Selenium to perform web scraping. 
 * Scikit-learn to perform regression.
