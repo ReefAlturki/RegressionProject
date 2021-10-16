@@ -4,6 +4,9 @@
 SDAIA Bootcamp project 2 - Web Scraping & Linear Regression. 
 This project aims to  predict used cars' market value. A Linear regression model is applied to forecast used cars prices based on data scraped from different sources. Different experiments have been applied in order to optimize prediction.
 
+## Team Members:
+* Reef Alturki
+* Raghad Alarifi
 
 ## Installation
 This project requires python 3.x and the following python libraries:
