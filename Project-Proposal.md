@@ -30,7 +30,7 @@ Our goal in this project is to predict used cars' market value by applying machi
 
 **What dataset(s) do you plan to use, and how will you obtain the data?**
 
-In this project, We intend to scrape two website and use additional dataset for more comprehensive used car data.
+In this project, we intend to scrape two website and use additional dataset for more comprehensive used car data.
 
 
 * [Cars.com](https://www.cars.com/): Website for shopping and selling used cars. There is a list of features for each car.
