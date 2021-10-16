@@ -8,14 +8,6 @@ This project aims to  predict used cars' market value. A Linear regression model
 * Reef Alturki
 * Raghad Alarifi
 
-## Installation
-This project requires python 3.x and the following python libraries:
-* Numpy
-* Pandas
-* Matplotlib
-* BeautifulSoup
-* Selenium
-
 ## Table of contents
 * [Project Proposal](https://github.com/ReefSA/RegressionProject/blob/main/Project-Proposal.md)
 * [Project MVP](https://github.com/ReefSA/RegressionProject/blob/main/MVP.ipynb)
