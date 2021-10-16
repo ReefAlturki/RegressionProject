@@ -33,9 +33,9 @@ Our goal in this project is to predict used cars' market value by applying machi
 In this project, We intend to scrape two website and use additional dataset for more comprehensive used car data.
 
 
-* [Cars.com](https://www.cars.com/): Website for shopping and selling used cars. there is a list of features for each car.
+* [Cars.com](https://www.cars.com/): Website for shopping and selling used cars. There is a list of features for each car.
 
-* [Craigslist Cars-trucks Dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data) : a dataset from Craigslist. it contains all relevant information on used car sales including price, condition, manufacturer, and other 23 columns. the dataset is scraped every few months has over 426k rows.
+* [Craigslist Cars-trucks Dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data) : a dataset from Craigslist. It contains all relevant information on used car sales including price, condition, manufacturer, and other 23 columns.
 
 
 
