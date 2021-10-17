@@ -35,6 +35,8 @@ In this project, we intend to scrape two website and use additional dataset for 
 
 * [Cars.com](https://www.cars.com/): Website for shopping and selling used cars. There is a list of features for each car.
 
+* [Cargurus.com](https://www.cargurus.com/) : Website for buying and selling new and used cars.
+
 * [Craigslist Cars-trucks Dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data) : a dataset from Craigslist. It contains all relevant information on used car sales including price, condition, manufacturer, and other 23 columns.
 
 
