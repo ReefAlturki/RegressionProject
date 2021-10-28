@@ -50,3 +50,4 @@ The following libraries will be used in order to successfully complete the proje
 * Matplotlib to plot visulalizations.
 * BeautifulSoup and Selenium to perform web scraping. 
 * Scikit-learn to perform regression.
+* Streamlit tool to build a simple web page.
