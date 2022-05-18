@@ -11,7 +11,6 @@ This project aims to  predict used cars' market value. A Linear regression model
 
 ## Table of contents
 * [Project Proposal](https://github.com/ReefSA/RegressionProject/blob/main/Project-Proposal.md)
-* [Project MVP](https://github.com/ReefSA/RegressionProject/blob/main/MVP.ipynb)
 * [Project Code](https://github.com/ReefSA/RegressionProject/blob/main/project_code.ipynb)
 * [Presentation](https://github.com/ReefSA/RegressionProject/blob/main/RegressionPresentation.pdf)
 
